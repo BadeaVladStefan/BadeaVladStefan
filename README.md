@@ -20,3 +20,5 @@
  <li><a href="https://github.com/BadeaVladStefan/UBBProjects-BadeaVlad/tree/main/second%20semester/OPP%20C%2B%2B/teme/OOP_A67_BadeaVlad_911/Tema%20OOP%20A67/Tema%20OOP/OOP">Dog shelter 🐶</a></li>
  <li><a href="https://github.com/BadeaVladStefan/UBBProjects-BadeaVlad/blob/main/third%20semester/MAP%20-%20Java/A7%20-%20toy%20language.zip">Toy Language Interpreter ⌨️</a></li>
 </ul>
+
+<h3 align="left"><b><a href="https://github.com/BadeaVladStefan/UBBProjects-BadeaVlad/tree/main">All my univeristy work</a></b></h3>
