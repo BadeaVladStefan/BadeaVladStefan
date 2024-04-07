@@ -12,7 +12,7 @@
 <a href="https://www.facebook.com/badeaxo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="badea.vlad" height="30" width="40" /></a>
 <a href="https://www.instagram.com/badeaxo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="badeaxo" height="30" width="40" /></a>
 <br />
-Contact: badeavlad.1008@gmail.com<img align="center" src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" alt="badeavlad.1008" height="30" witdth="40" />
+<img align="center" src="https://logowik.com/content/uploads/images/gmail-new-icon5198.jpg" alt="badeavlad.1008" height="30" witdth="40" />Contact: badeavlad.1008@gmail.com
 </p>
 
 <h3 align="left"><b>My biggest projects:</b></h3>
