@@ -18,6 +18,7 @@
 
 <h3 align="left"><b>My biggest projects:</b></h3>
 <ul>
+  <li><a href="=https://github.com/BadeaVladStefan/UBBProjects-BadeaVlad/tree/main/fourth%20semester/MPP/A4_MPP">F1 Driver Manager 🏎️</a></li>
  <li><a href="https://github.com/BadeaVladStefan/UBBProjects-BadeaVlad/tree/main/first%20semester/Connect%20Four%20game">Connect Four 🔴🔵</a></li>
  <li><a href="https://github.com/BadeaVladStefan/UBBProjects-BadeaVlad/tree/main/first%20semester/pong">Pong 🏓</a></li>
  <li><a href="https://github.com/BadeaVladStefan/UBBProjects-BadeaVlad/tree/main/second%20semester/OPP%20C%2B%2B/Microbial%20World%20exam">Microbial World 🦠</a></li>
